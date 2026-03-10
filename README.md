@@ -1,4 +1,4 @@
-# Desafio Técnico - API de Mapeamento de Pedidos (Jitterbit) 🚀
+# Desafio Técnico - API de Mapeamento de Pedidos (Jitterbit) 
 
 Este projeto é uma API desenvolvida em **Node.js** com **Express**, criada como parte de um desafio técnico para a Jitterbit. O objetivo principal é receber dados de pedidos em português e realizar o mapeamento (tradução) para um formato padronizado em inglês.
 
@@ -45,4 +45,5 @@ A arquitetura foi separada em camadas para seguir as boas práticas de desenvolv
     }
   ]
 }
+
 
