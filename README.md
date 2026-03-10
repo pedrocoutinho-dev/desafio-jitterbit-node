@@ -4,12 +4,12 @@ Este projeto é uma API desenvolvida em **Node.js** com **Express**, criada como
 
 ---
 
-## 👨‍💻 Sobre o Desenvolvedor
+## Sobre o Desenvolvedor
 Vindo de uma base sólida em linguagens tipadas como **Java/C#**, este projeto marca minha primeira experiência prática construindo uma API REST com o ecossistema JavaScript/Node.js. Apliquei conceitos de **Clean Code** e a arquitetura **MVC** para garantir uma estrutura organizada e de fácil manutenção.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 * **Node.js**: Ambiente de execução.
 * **Express**: Framework para criação das rotas e servidor.
 * **JavaScript (ES6+)**: Lógica de mapeamento e manipulação de dados.
@@ -17,7 +17,7 @@ Vindo de uma base sólida em linguagens tipadas como **Java/C#**, este projeto m
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 A arquitetura foi separada em camadas para seguir as boas práticas de desenvolvimento:
 - `index.js`: Ponto de entrada (Main) e configuração do servidor.
 - `controllers/`: Camada de lógica de negócio e processamento do mapeamento.
@@ -25,7 +25,7 @@ A arquitetura foi separada em camadas para seguir as boas práticas de desenvolv
 
 ---
 
-## 📖 Documentação da API (Endpoints)
+## Documentação da API (Endpoints)
 
 ### 1. Criar e Traduzir Pedido (POST)
 **URL:** `http://localhost:3000/order`  
@@ -45,3 +45,4 @@ A arquitetura foi separada em camadas para seguir as boas práticas de desenvolv
     }
   ]
 }
+
